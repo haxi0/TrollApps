@@ -7,7 +7,7 @@
 
 <p align="center">
     For future releases, please go <a href="https://github.com/TheResonanceTeam/TrollApps">here</a>.
-    
-    Bonnie, Resonance Team
+
+    -Bonnie, Resonance Team
     ---
 </p>
