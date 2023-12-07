@@ -5,6 +5,8 @@
 <h1 align="center">TrollApps</h1>
 <h6 align="center">An App Store alternative for TrollStore.</h6>
 
+<p align="center">
 For future releases, please go <a href="https://github.com/TheResonanceTeam/TrollApps">here</a>.
 
-- Bonnie, Resonance Team
+:- Bonnie, Resonance Team
+</p>
