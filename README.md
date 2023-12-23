@@ -1,5 +1,7 @@
 <img src="assets/TrollApps-modified.png" alt="Logo" width="70" height="70">
 
+# THIS PROJECT IS NO LONGER MAINTAINED, PLEASE GO TO https://github.com/TheResonanceTeam/TrollApps
+
 # TrollApps
 App Store, but for TrollStore
 
